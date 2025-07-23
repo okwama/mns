@@ -1,1 +1,1 @@
-export declare function createNestServer(): Promise<import("express-serve-static-core").Express>;
+export declare function createNestServer(): Promise<any>;
