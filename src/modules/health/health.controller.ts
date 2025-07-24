@@ -39,7 +39,7 @@ export class HealthController {
   @Get('version')
   getVersion() {
     return {
-      latest_version: '1.0.1', // Update this as needed
+      latest_version: '1.0.2', // Update this as needed
       force_update: true
     };
   }
